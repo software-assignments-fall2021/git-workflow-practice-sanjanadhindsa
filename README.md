@@ -17,3 +17,6 @@ This article, however, discusses a lot of the ways we can get students more enga
 TEALS program, was that students slowly developed an interest in CS content as the year progressed. This interest which develops shows me that it's not necessarily computer science as a subject which 
 turns many students off of learning it, but instead preconceived notions of the topics (i.e. it's "too difficult" or "not applicable") and lack of exposure which limits
 students. 
+
+### David Iosilevich
+This is a very important for article, for both software developers and students. With technology advancing at an incredible rate, it is vital for education programs around the world to implement more computer science into the curriculum. This addition would certainly have helped me when I was in high school, as CS has taught me to solve problems and think algorithmically in areas other than programming.
